@@ -1,0 +1,22 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    ;
+    letter-spacing: 5px;
+}
+body{
+    background-image: url(halftone-yellow.png);
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px black;
+    border-style: dashed;
+    width: 100%;
+    text-align: center;
+}
